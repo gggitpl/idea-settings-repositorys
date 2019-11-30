@@ -9,4 +9,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Fira Code" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
 </application>
