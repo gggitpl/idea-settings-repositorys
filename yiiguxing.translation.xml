@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to" />
       <item value="continue" />
       <item value="// gh-807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
       <item value="but" />
@@ -10,8 +11,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
