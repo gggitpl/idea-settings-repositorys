@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Returns &lt;code&gt;true&lt;/code&gt; if this &lt;Code&gt;AuthenticationProvider&lt;/code&gt; supports the * indicated &lt;Code&gt;Authentication&lt;/code&gt; object. * &lt;p&gt; * Returning &lt;code&gt;true&lt;/code&gt; does not guarantee an * &lt;code&gt;AuthenticationProvider&lt;/code&gt; will be able to authenticate the presented * instance of the &lt;code&gt;Authentication&lt;/code&gt; class. It simply indicates it can * support closer evaluation of it. An &lt;code&gt;AuthenticationProvider&lt;/code&gt; can still * return &lt;code&gt;null&lt;/code&gt; from the {@link #authenticate(Authentication)} method to * indicate another &lt;code&gt;AuthenticationProvider&lt;/code&gt; should be tried. * &lt;/p&gt; * &lt;p&gt; * Selection of an &lt;code&gt;AuthenticationProvider&lt;/code&gt; capable of performing * authentication is conducted at runtime the &lt;code&gt;ProviderManager&lt;/code&gt;. * &lt;/p&gt; * * @param authentication * * @return &lt;code&gt;true&lt;/code&gt; if the implementation can more closely evaluate the * &lt;code&gt;Authentication&lt;/code&gt; class presented */" />
       <item value="// Default methods are public non-abstract, non-synthetic, and non-static instance methods // declared in an interface. // method.isDefault() is not sufficient for our usage as it does not check // for synthetic methods. As a result, it picks up overridden methods as well as actual default // methods." />
       <item value="&quot;description&quot;: &quot;Enables the use of the OK HTTP Client by Feign.&quot;," />
       <item value="&quot;description&quot;: &quot;If true, an OpenFeign client will be wrapped with a Hystrix circuit breaker.&quot;," />
@@ -33,7 +34,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
