@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Filter base class that aims to guarantee a single execution per request * dispatch, on any servlet container. It provides a {@link #doFilterInternal} * method with HttpServletRequest and HttpServletResponse arguments. *" />
       <item value="// If authentication fails the type is &quot;Form&quot;" />
       <item value="authenticationManager must be specified" />
       <item value="// Unknown exception, typically a wrapper with a common MVC exception as cause // (since @ExceptionHandler type declarations also match first-level causes): // We only deal with top-level MVC exceptions here, so let's rethrow the given // exception for further processing through the HandlerExceptionResolver chain." />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
