@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&quot;Dummy filter chain&quot;" />
+      <item value="// once-per-request handling, so don't re-do security checking" />
+      <item value="// filter already applied to this request and user wants us to observe" />
+      <item value="* @param chain the filter chain" />
+      <item value="* Method that is actually called by the filter chain. Simply delegates to the" />
       <item value="* Checks the current authentication token and passes it to the AuthenticationManager" />
       <item value="* Processes a HTTP request's BASIC authorization headers, putting the result into the" />
       <item value="&quot;There is no client authentication. Try adding an appropriate authentication filter.&quot;);" />
@@ -46,16 +51,11 @@
       <item value="// query off of the authorization request instead of referring back to the parameters map. The contents of the" />
       <item value="// Pull out the authorization request first, using the OAuth2RequestFactory. All further logic should" />
       <item value="to" />
-      <item value="continue" />
-      <item value="// gh-807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
-      <item value="but" />
-      <item value="reuse Refresh Token" />
-      <item value="token Converter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
