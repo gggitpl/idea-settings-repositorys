@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="//covers expired, locked, disabled cases (mentioned in section 5.2, draft 31)" />
+      <item value="// If the username/password are wrong the spec says we should send 400/invalid grant" />
       <item value="&quot;Dummy filter chain&quot;" />
       <item value="// once-per-request handling, so don't re-do security checking" />
       <item value="// filter already applied to this request and user wants us to observe" />
@@ -49,13 +51,11 @@
       <item value="and" />
       <item value="// parameters map will be stored without change in the AuthorizationRequest object once it is created." />
       <item value="// query off of the authorization request instead of referring back to the parameters map. The contents of the" />
-      <item value="// Pull out the authorization request first, using the OAuth2RequestFactory. All further logic should" />
-      <item value="to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
