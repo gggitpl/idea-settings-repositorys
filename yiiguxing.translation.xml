@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Checks the current authentication token and passes it to the AuthenticationManager" />
       <item value="* Processes a HTTP request's BASIC authorization headers, putting the result into the" />
       <item value="&quot;There is no client authentication. Try adding an appropriate authentication filter.&quot;);" />
       <item value="// A refresh token has its own default scopes, so we should ignore any added by the factory here." />
@@ -50,12 +51,11 @@
       <item value="but" />
       <item value="reuse Refresh Token" />
       <item value="token Converter" />
-      <item value="in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
