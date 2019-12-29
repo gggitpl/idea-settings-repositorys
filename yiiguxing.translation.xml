@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @param connectionTimeoutMs connection timeout" />
+      <item value="* @param sessionTimeoutMs session timeout" />
+      <item value="max number of times to retry" />
+      <item value="initial amount of time to wait between retries" />
+      <item value="* @param maxSleepMs max time in ms to sleep on each retry" />
+      <item value="* @param maxRetries max number of times to retry" />
+      <item value="* @param baseSleepTimeMs initial amount of time to wait between retries" />
       <item value="//covers expired, locked, disabled cases (mentioned in section 5.2, draft 31)" />
       <item value="// If the username/password are wrong the spec says we should send 400/invalid grant" />
       <item value="&quot;Dummy filter chain&quot;" />
@@ -44,18 +51,11 @@
       <item value="SECONDS" />
       <item value="&quot;description&quot;: &quot;Deprecated property to enable Ribbon RestClient.&quot;," />
       <item value="&quot;sourceType&quot;: &quot;org.springframework.cloud.netflix.ribbon.RibbonEagerLoadProperties&quot;," />
-      <item value="{ &quot;groups&quot;: [ { &quot;name&quot;: &quot;ribbon&quot;, &quot;type&quot;: &quot;org.springframework.cloud.netflix.ribbon.ServerIntrospectorProperties&quot;, &quot;sourceType&quot;: &quot;org.springframework.cloud.netflix.ribbon.ServerIntrospectorProperties&quot; }, { &quot;name&quot;: &quot;ribbon.eager-load&quot;, &quot;type&quot;: &quot;org.springframework.cloud.netflix.ribbon.RibbonEagerLoadProperties&quot;, &quot;sourceType&quot;: &quot;org.springframework.cloud.netflix.ribbon.RibbonEagerLoadProperties&quot; } ], &quot;properties&quot;: [ { &quot;name&quot;: &quot;eureka.client.healthcheck.enabled&quot;, &quot;type&quot;: &quot;java.lang.Boolean&quot;, &quot;description&quot;: &quot;Enables the Eureka health check handler.&quot;, &quot;defaultValue&quot;: true }, { &quot;name&quot;: &quot;ribbon.eager-load.clients&quot;, &quot;type&quot;: &quot;java.util.List&lt;java.lang.String&gt;&quot;, &quot;sourceType&quot;: &quot;org.springframework.cloud.netflix.ribbon.RibbonEagerLoadProperties&quot; }, { &quot;name&quot;: &quot;ribbon.eager-load.enabled&quot;, &quot;type&quot;: &quot;java.lang.Boolean&quot;, &quot;sourceType&quot;: &quot;org.springframework.cloud.netflix.ribbon.RibbonEagerLoadProperties&quot;, &quot;defaultValue&quot;: false }, { &quot;name&quot;: &quot;ribbon.http.client.enabled&quot;, &quot;type&quot;: &quot;java.lang.Boolean&quot;, &quot;description&quot;: &quot;Deprecated property to enable Ribbon RestClient.&quot;, &quot;defaultValue&quot;: false }, { &quot;name&quot;: &quot;ribbon.okhttp.enabled&quot;, &quot;type&quot;: &quot;java.lang.Boolean&quot;, &quot;description&quot;: &quot;Enables the use of the OK HTTP Client with Ribbon.&quot;, &quot;defaultValue&quot;: false }, { &quot;name&quot;: &quot;ribbon.restclient.enabled&quot;, &quot;type&quot;: &quot;java.lang.Boolean&quot;, &quot;description&quot;: &quot;Enables the use of the deprecated Ribbon RestClient.&quot;, &quot;defaultValue&quot;: false }, { &quot;name&quot;: &quot;ribbon.secure-ports&quot;, &quot;type&quot;: &quot;java.util.List&lt;java.lang.Integer&gt;&quot;, &quot;sourceType&quot;: &quot;org.springframework.cloud.netflix.ribbon.ServerIntrospectorProperties&quot; } ], &quot;hints&quot;: [] }" />
-      <item value="### Digest authorization with variables." />
-      <item value="* Constant to use while parsing and formatting parameter maps for OAuth2 requests" />
-      <item value="requests" />
-      <item value="and" />
-      <item value="// parameters map will be stored without change in the AuthorizationRequest object once it is created." />
-      <item value="// query off of the authorization request instead of referring back to the parameters map. The contents of the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
