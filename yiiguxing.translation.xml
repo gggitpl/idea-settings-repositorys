@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @throws Throwable if the invoked proceed throws anything" />
+      <item value="* @return the result of proceeding" />
       <item value="* @param connectionTimeoutMs connection timeout" />
       <item value="* @param sessionTimeoutMs session timeout" />
       <item value="max number of times to retry" />
@@ -49,13 +51,11 @@
       <item value="RunAsManager did not change Authentication object" />
       <item value="Authorization successful" />
       <item value="SECONDS" />
-      <item value="&quot;description&quot;: &quot;Deprecated property to enable Ribbon RestClient.&quot;," />
-      <item value="&quot;sourceType&quot;: &quot;org.springframework.cloud.netflix.ribbon.RibbonEagerLoadProperties&quot;," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
