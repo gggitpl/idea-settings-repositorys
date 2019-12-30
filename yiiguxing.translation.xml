@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Returns true if the mutex is acquired by a thread in this JVM" />
+      <item value="* @param qty number of leases to acquire" />
+      <item value="return false; // important - don't overwrite lease field if couldn't be acquired" />
+      <item value="MICROSECONDS" />
+      <item value="MILLISECONDS" />
+      <item value="* Time unit representing one second" />
+      <item value="* Time unit representing one thousandth of a second" />
       <item value="* @throws Exception ZK errors, connection interruptions" />
       <item value="* @return true if the mutex was acquired, false if not" />
       <item value="* @param unit time unit" />
@@ -44,18 +51,11 @@
       <item value="authenticationManager must be specified" />
       <item value="// Unknown exception, typically a wrapper with a common MVC exception as cause // (since @ExceptionHandler type declarations also match first-level causes): // We only deal with top-level MVC exceptions here, so let's rethrow the given // exception for further processing through the HandlerExceptionResolver chain." />
       <item value="/** * Returns &lt;code&gt;true&lt;/code&gt; if this &lt;Code&gt;AuthenticationProvider&lt;/code&gt; supports the * indicated &lt;Code&gt;Authentication&lt;/code&gt; object. * &lt;p&gt; * Returning &lt;code&gt;true&lt;/code&gt; does not guarantee an * &lt;code&gt;AuthenticationProvider&lt;/code&gt; will be able to authenticate the presented * instance of the &lt;code&gt;Authentication&lt;/code&gt; class. It simply indicates it can * support closer evaluation of it. An &lt;code&gt;AuthenticationProvider&lt;/code&gt; can still * return &lt;code&gt;null&lt;/code&gt; from the {@link #authenticate(Authentication)} method to * indicate another &lt;code&gt;AuthenticationProvider&lt;/code&gt; should be tried. * &lt;/p&gt; * &lt;p&gt; * Selection of an &lt;code&gt;AuthenticationProvider&lt;/code&gt; capable of performing * authentication is conducted at runtime the &lt;code&gt;ProviderManager&lt;/code&gt;. * &lt;/p&gt; * * @param authentication * * @return &lt;code&gt;true&lt;/code&gt; if the implementation can more closely evaluate the * &lt;code&gt;Authentication&lt;/code&gt; class presented */" />
-      <item value="// Default methods are public non-abstract, non-synthetic, and non-static instance methods // declared in an interface. // method.isDefault() is not sufficient for our usage as it does not check // for synthetic methods. As a result, it picks up overridden methods as well as actual default // methods." />
-      <item value="&quot;description&quot;: &quot;Enables the use of the OK HTTP Client by Feign.&quot;," />
-      <item value="&quot;description&quot;: &quot;If true, an OpenFeign client will be wrapped with a Hystrix circuit breaker.&quot;," />
-      <item value="&quot;sourceType&quot;: &quot;org.springframework.cloud.openfeign.support.FeignHttpClientProperties&quot;," />
-      <item value="&quot;description&quot;: &quot;Enables the use of the Apache HTTP Client by Feign.&quot;," />
-      <item value="&quot;description&quot;: &quot;Enables the response from Feign to be compressed.&quot;," />
-      <item value="&quot;description&quot;: &quot;Enables the request sent by Feign to be compressed.&quot;," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
