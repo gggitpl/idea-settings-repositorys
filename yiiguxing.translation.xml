@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @return true if the mutex was acquired, false if not" />
+      <item value="* @param unit time unit" />
+      <item value="* @param time time to wait" />
       <item value="* @throws Throwable if the invoked proceed throws anything" />
       <item value="* @return the result of proceeding" />
       <item value="* @param connectionTimeoutMs connection timeout" />
@@ -48,14 +51,11 @@
       <item value="&quot;description&quot;: &quot;Enables the response from Feign to be compressed.&quot;," />
       <item value="&quot;description&quot;: &quot;Enables the request sent by Feign to be compressed.&quot;," />
       <item value="SecurityContextHolder now cleared, as request processing completed" />
-      <item value="RunAsManager did not change Authentication object" />
-      <item value="Authorization successful" />
-      <item value="SECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
