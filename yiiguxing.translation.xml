@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Thrown by {@link HttpMessageConverter} implementations when the" />
       <item value="* Customize the response for HttpMediaTypeNotAcceptableException." />
       <item value="* @param message the detail message. The detail message is saved for" />
       <item value="* Constant that indicates request scope." />
@@ -50,12 +51,11 @@
       <item value="Responsible for reconstituting the saved request if one is cached and it matches the * current request." />
       <item value="* Performs Http session-related functionality when a new authentication occurs." />
       <item value="// return immediately as subclass has indicated that it hasn't completed // authentication" />
-      <item value="If the request is already authenticated we can assume that this // filter is not needed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
