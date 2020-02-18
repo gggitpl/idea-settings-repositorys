@@ -1,6 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://maven.apache.org/xsd/assembly-2.0.0.xsd" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/a7faf726_assembly-2.0.0.xsd" />
+    <resource url="http://www.jooq.org/xsd/jooq-codegen-3.13.0.xsd" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/f22f741b_jooq-codegen-3.13.0.xsd" />
     <ignored-resource url="http://maven.apache.org/xsd/assembly-2.0.0.xsd" />
   </component>
 </application>
