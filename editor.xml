@@ -11,11 +11,15 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
