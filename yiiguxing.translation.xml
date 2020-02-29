@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.IllegalArgumentException: RelationalPath based projection can only be used with generated Bean types" />
+      <item value="RelationalPath based projection can only be used with generated Bean types" />
       <item value="Expression" />
       <item value="projection" />
       <item value="Projection Role" />
@@ -49,8 +51,6 @@
       <item value="// A refresh token has its own default scopes, so we should ignore any added by the factory here." />
       <item value="Sets a new list of custom authentication filters for the TokenEndpoint. Filters will be set upstream of the * default BasicAuthenticationFilter." />
       <item value="Adds a new custom authentication filter for the TokenEndpoint. Filters will be set upstream of the default * BasicAuthenticationFilter." />
-      <item value="super.setAuthenticated(true); // must use super, as we override" />
-      <item value="* Constructor which sets the &lt;tt&gt;defaultTargetUrl&lt;/tt&gt; property of the base class." />
     </histories>
     <option name="languageScores">
       <map>
