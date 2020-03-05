@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="erase Credentials" />
       <item value="available" />
       <item value="Enable Transaction Management" />
       <item value="java.lang.IllegalArgumentException: RelationalPath based projection can only be used with generated Bean types" />
@@ -50,12 +51,11 @@
       <item value="* Checks the current authentication token and passes it to the AuthenticationManager" />
       <item value="* Processes a HTTP request's BASIC authorization headers, putting the result into the" />
       <item value="&quot;There is no client authentication. Try adding an appropriate authentication filter.&quot;);" />
-      <item value="// A refresh token has its own default scopes, so we should ignore any added by the factory here." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
