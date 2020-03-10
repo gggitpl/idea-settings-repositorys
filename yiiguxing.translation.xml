@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Set the {@code value} and expiration {@code timeout} for {@code key}." />
       <item value="* Overwrite parts of {@code key} starting at the specified {@code offset} with given {@code value}." />
       <item value="* Increment an integer value stored as string value under {@code key} by {@code delta}." />
       <item value="erase Credentials" />
@@ -50,12 +51,11 @@
       <item value="// filter already applied to this request and user wants us to observe" />
       <item value="* @param chain the filter chain" />
       <item value="* Method that is actually called by the filter chain. Simply delegates to the" />
-      <item value="* Checks the current authentication token and passes it to the AuthenticationManager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
