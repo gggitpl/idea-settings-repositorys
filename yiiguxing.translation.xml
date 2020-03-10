@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Overwrite parts of {@code key} starting at the specified {@code offset} with given {@code value}." />
+      <item value="* Increment an integer value stored as string value under {@code key} by {@code delta}." />
       <item value="erase Credentials" />
       <item value="available" />
       <item value="Enable Transaction Management" />
@@ -49,13 +51,11 @@
       <item value="* @param chain the filter chain" />
       <item value="* Method that is actually called by the filter chain. Simply delegates to the" />
       <item value="* Checks the current authentication token and passes it to the AuthenticationManager" />
-      <item value="* Processes a HTTP request's BASIC authorization headers, putting the result into the" />
-      <item value="&quot;There is no client authentication. Try adding an appropriate authentication filter.&quot;);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
