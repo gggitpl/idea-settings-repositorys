@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Use names and ensure unique to protect against duplicates" />
+      <item value="duplicates" />
       <item value="* Set the {@code value} and expiration {@code timeout} for {@code key}." />
       <item value="* Overwrite parts of {@code key} starting at the specified {@code offset} with given {@code value}." />
       <item value="* Increment an integer value stored as string value under {@code key} by {@code delta}." />
@@ -49,13 +51,11 @@
       <item value="&quot;Dummy filter chain&quot;" />
       <item value="// once-per-request handling, so don't re-do security checking" />
       <item value="// filter already applied to this request and user wants us to observe" />
-      <item value="* @param chain the filter chain" />
-      <item value="* Method that is actually called by the filter chain. Simply delegates to the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
