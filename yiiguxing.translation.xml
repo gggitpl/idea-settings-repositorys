@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* If the security scheme is of type &quot;oauth2&quot; or &quot;openIdConnect&quot;, then the value is a list of scope names required for the execution." />
+      <item value="* This name must correspond to a declared SecurityRequirement." />
+      <item value="* The order of the tags can be used to reflect on their order by the parsing tools." />
+      <item value="* A list of tags used by the specification with additional metadata." />
+      <item value="* The list of optional extensions" />
+      <item value="* Any additional external documentation for the API" />
       <item value="* The two possible authentication types for a resource." />
       <item value="delim" />
       <item value="* Convert a {@code String} array into a comma delimited {@code String}" />
@@ -45,17 +51,11 @@
       <item value="* @return true if the mutex was acquired, false if not" />
       <item value="* @param unit time unit" />
       <item value="* @throws Throwable if the invoked proceed throws anything" />
-      <item value="* @return the result of proceeding" />
-      <item value="* @param connectionTimeoutMs connection timeout" />
-      <item value="* @param sessionTimeoutMs session timeout" />
-      <item value="max number of times to retry" />
-      <item value="initial amount of time to wait between retries" />
-      <item value="* @param maxSleepMs max time in ms to sleep on each retry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
