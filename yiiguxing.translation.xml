@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* create a {@link GeoHashCircleQuery} with the given center point and a radius in meters." />
       <item value="* If the security scheme is of type &quot;oauth2&quot; or &quot;openIdConnect&quot;, then the value is a list of scope names required for the execution." />
       <item value="* This name must correspond to a declared SecurityRequirement." />
       <item value="* The order of the tags can be used to reflect on their order by the parsing tools." />
@@ -50,12 +51,11 @@
       <item value="* @throws Exception ZK errors, connection interruptions" />
       <item value="* @return true if the mutex was acquired, false if not" />
       <item value="* @param unit time unit" />
-      <item value="* @throws Throwable if the invoked proceed throws anything" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
