@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This specification reserves the method name CONNECT for use with a proxy that can dynamically * switch to being a tunnel" />
       <item value="* create a {@link GeoHashCircleQuery} with the given center point and a radius in meters." />
       <item value="* If the security scheme is of type &quot;oauth2&quot; or &quot;openIdConnect&quot;, then the value is a list of scope names required for the execution." />
       <item value="* This name must correspond to a declared SecurityRequirement." />
@@ -50,7 +51,6 @@
       <item value="* Time unit representing one thousandth of a second" />
       <item value="* @throws Exception ZK errors, connection interruptions" />
       <item value="* @return true if the mutex was acquired, false if not" />
-      <item value="* @param unit time unit" />
     </histories>
     <option name="languageScores">
       <map>
