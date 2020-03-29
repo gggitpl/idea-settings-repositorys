@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Upgrades to another protocol from HTTP. Removes the {@link HttpRequestDecoder} and" />
       <item value="/** See the EDSL examples at {@link com.google.inject.Binder}. */" />
       <item value="This specification reserves the method name CONNECT for use with a proxy that can dynamically * switch to being a tunnel" />
       <item value="* create a {@link GeoHashCircleQuery} with the given center point and a radius in meters." />
@@ -50,7 +51,6 @@
       <item value="MICROSECONDS" />
       <item value="MILLISECONDS" />
       <item value="* Time unit representing one thousandth of a second" />
-      <item value="* @throws Exception ZK errors, connection interruptions" />
     </histories>
     <option name="languageScores">
       <map>
