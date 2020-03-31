@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="then" />
+      <item value="Spy" />
       <item value="Argument" />
       <item value="Argument Captor" />
       <item value="Captor" />
       <item value="when" />
       <item value="when Use Captor Annotation then The Sam" />
-      <item value="then" />
       <item value="Annotation" />
       <item value="Mockito" />
       <item value="verify" />
@@ -50,12 +51,11 @@
       <item value="* If the security scheme is of type &quot;oauth2&quot; or &quot;openIdConnect&quot;, then the value is a list of scope names required for the execution." />
       <item value="* This name must correspond to a declared SecurityRequirement." />
       <item value="* The order of the tags can be used to reflect on their order by the parsing tools." />
-      <item value="* A list of tags used by the specification with additional metadata." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="DUTCH" value="1" />
