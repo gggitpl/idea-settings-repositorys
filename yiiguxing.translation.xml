@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Na N" />
+      <item value="MAXIMUM CAPACITY" />
+      <item value="DEFAULT LOAD FACTOR" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="UNTREEIFY THRESHOLD" />
+      <item value="MIN TREEIFY CAPACITY" />
+      <item value="(The javadoc description is true upon serialization. // Additionally, if the table array has not been allocated, this // field holds the initial array capacity, or zero signifying // DEFAULT_INITIAL_CAPACITY.)" />
+      <item value="ensure Capacity" />
+      <item value="original" />
       <item value="ensure Explicit Capacity" />
       <item value="ensure Capacity Internal" />
       <item value="calculate Capacity" />
-      <item value="ensure Capacity" />
       <item value="// any size if not default element table" />
       <item value="min Expand" />
       <item value="Expand" />
@@ -43,21 +51,14 @@
       <item value="* Time unit representing one second" />
       <item value="* @param timeout the key expiration timeout." />
       <item value="// Use names and ensure unique to protect against duplicates" />
-      <item value="duplicates" />
-      <item value="* Set the {@code value} and expiration {@code timeout} for {@code key}." />
-      <item value="* Overwrite parts of {@code key} starting at the specified {@code offset} with given {@code value}." />
-      <item value="* Increment an integer value stored as string value under {@code key} by {@code delta}." />
-      <item value="erase Credentials" />
-      <item value="available" />
-      <item value="Enable Transaction Management" />
-      <item value="java.lang.IllegalArgumentException: RelationalPath based projection can only be used with generated Bean types" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="151" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
+        <entry key="DUTCH" value="1" />
         <entry key="SWEDISH" value="3" />
       </map>
     </option>
