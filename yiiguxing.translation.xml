@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Maximum array size is Integer.MAX_VALUE" />
+      <item value="// high value may be configured by property" />
+      <item value="radix" />
       <item value="Concurrent" />
       <item value="MAXIMUM CAPACITY" />
       <item value="is Na N" />
@@ -24,8 +27,6 @@
       <item value="assert" />
       <item value="// range [-128, 127] must be interned (JLS7 5.1.7)" />
       <item value="// If the property cannot be parsed into an int, ignore it." />
-      <item value="// Maximum array size is Integer.MAX_VALUE" />
-      <item value="// high value may be configured by property" />
       <item value="to Octal String" />
       <item value="transient" />
       <item value="minimum Capacity" />
@@ -50,12 +51,11 @@
       <item value="instance" />
       <item value="* Time unit representing sixty seconds" />
       <item value="* Time unit representing one second" />
-      <item value="* @param timeout the key expiration timeout." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="DUTCH" value="1" />
