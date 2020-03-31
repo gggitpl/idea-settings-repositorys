@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assert" />
+      <item value="// range [-128, 127] must be interned (JLS7 5.1.7)" />
+      <item value="// If the property cannot be parsed into an int, ignore it." />
+      <item value="// Maximum array size is Integer.MAX_VALUE" />
+      <item value="// high value may be configured by property" />
+      <item value="to Octal String" />
+      <item value="transient" />
+      <item value="minimum Capacity" />
       <item value="ensure Capacity Internal" />
       <item value="append Null" />
-      <item value="transient" />
       <item value="String Builder" />
       <item value="digits" />
       <item value="get Primitive Class" />
@@ -44,18 +51,11 @@
       <item value="* @param radius must be greater or equal to zero." />
       <item value="* @return never {@literal null} unless used in pipeline / transaction." />
       <item value="Initializing" />
-      <item value="* Thrown by {@link HttpMessageConverter} implementations when the" />
-      <item value="* Customize the response for HttpMediaTypeNotAcceptableException." />
-      <item value="* @param message the detail message. The detail message is saved for" />
-      <item value="* Constant that indicates request scope." />
-      <item value="* Customize the response for HttpMediaTypeNotSupportedException." />
-      <item value="* Start an exists builder" />
-      <item value="* @param time time to wait" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
