@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digits" />
+      <item value="get Primitive Class" />
       <item value="* Upgrades to another protocol from HTTP. Removes the {@link HttpRequestDecoder} and" />
       <item value="/** See the EDSL examples at {@link com.google.inject.Binder}. */" />
       <item value="This specification reserves the method name CONNECT for use with a proxy that can dynamically * switch to being a tunnel" />
@@ -49,13 +51,11 @@
       <item value="* @param qty number of leases to acquire" />
       <item value="return false; // important - don't overwrite lease field if couldn't be acquired" />
       <item value="MICROSECONDS" />
-      <item value="MILLISECONDS" />
-      <item value="* Time unit representing one thousandth of a second" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
