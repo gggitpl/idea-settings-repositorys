@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @param cancelCallback callback when the consumer is cancelled" />
+      <item value="* @param autoAck true if the server should consider messages" />
+      <item value="* @throws java.io.IOException if an error is encountered" />
+      <item value="* @param body the message body" />
+      <item value="* @param props other properties for the message - routing headers etc" />
+      <item value="* @param routingKey the routing key" />
+      <item value="* @param exchange the exchange to publish the message to" />
+      <item value="exchange" />
       <item value="channel" />
       <item value="mixin Standard Help Options" />
       <item value="then" />
@@ -43,19 +51,11 @@
       <item value="transient" />
       <item value="minimum Capacity" />
       <item value="append Null" />
-      <item value="String Builder" />
-      <item value="digits" />
-      <item value="get Primitive Class" />
-      <item value="* Upgrades to another protocol from HTTP. Removes the {@link HttpRequestDecoder} and" />
-      <item value="/** See the EDSL examples at {@link com.google.inject.Binder}. */" />
-      <item value="This specification reserves the method name CONNECT for use with a proxy that can dynamically * switch to being a tunnel" />
-      <item value="* create a {@link GeoHashCircleQuery} with the given center point and a radius in meters." />
-      <item value="* If the security scheme is of type &quot;oauth2&quot; or &quot;openIdConnect&quot;, then the value is a list of scope names required for the execution." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="DUTCH" value="1" />
