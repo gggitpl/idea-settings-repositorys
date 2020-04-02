@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Packing and unpacking ctl" />
       <item value="/** Content-type &quot;text/plain&quot;, deliveryMode 2 (persistent), priority zero */" />
       <item value="* @param cancelCallback callback when the consumer is cancelled" />
       <item value="* @param autoAck true if the server should consider messages" />
@@ -50,12 +51,11 @@
       <item value="// If the property cannot be parsed into an int, ignore it." />
       <item value="to Octal String" />
       <item value="transient" />
-      <item value="minimum Capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="DUTCH" value="1" />
