@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Basic Properties" />
+      <item value="correlation Id" />
       <item value="exchange NAME" />
       <item value="exchange" />
       <item value="/** Content-type &quot;text/plain&quot;, deliveryMode 2 (persistent), priority zero */" />
@@ -49,13 +51,11 @@
       <item value="negative" />
       <item value="DEFAULTCAPACITY EMPTY ELEMENTDATA" />
       <item value="assert" />
-      <item value="// range [-128, 127] must be interned (JLS7 5.1.7)" />
-      <item value="// If the property cannot be parsed into an int, ignore it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="DUTCH" value="1" />
