@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* @param ifUnused true to indicate that the exchange is only to be deleted if it is unused" />
       <item value="lock Interruptibly" />
       <item value="Basic Properties" />
       <item value="correlation Id" />
@@ -50,12 +51,11 @@
       <item value="// c.toArray might (incorrectly) not return Object[] (see 6260652)" />
       <item value="Collection" />
       <item value="negative" />
-      <item value="DEFAULTCAPACITY EMPTY ELEMENTDATA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="DUTCH" value="1" />
