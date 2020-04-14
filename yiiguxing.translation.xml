@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Destroyable" />
       <item value="this block hasn't been mined" />
       <item value="difficulty" />
       <item value="/** Maximum number of retries before enqueuing on acquisition */" />
@@ -50,12 +51,11 @@
       <item value="original" />
       <item value="ensure Explicit Capacity" />
       <item value="ensure Capacity Internal" />
-      <item value="calculate Capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="DUTCH" value="1" />
