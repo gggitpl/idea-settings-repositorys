@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encode" />
+      <item value="Encod" />
+      <item value="Encoded" />
+      <item value="get Encoded" />
       <item value="value" />
       <item value="sender" />
       <item value="reciepient" />
@@ -47,15 +51,11 @@
       <item value="is Na N" />
       <item value="DEFAULT LOAD FACTOR" />
       <item value="TREEIFY THRESHOLD" />
-      <item value="UNTREEIFY THRESHOLD" />
-      <item value="MIN TREEIFY CAPACITY" />
-      <item value="(The javadoc description is true upon serialization. // Additionally, if the table array has not been allocated, this // field holds the initial array capacity, or zero signifying // DEFAULT_INITIAL_CAPACITY.)" />
-      <item value="ensure Capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
