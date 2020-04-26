@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Set the rows to repeat from row 0 to 2 on the second sheet." />
+      <item value="// Set the columns to repeat from column 0 to 2 on the first sheet" />
       <item value="// write the workbook to the output stream // close our file (don't blow out our file handles" />
       <item value="normalize" />
       <item value="* @param size * The size of the region to be mapped; must be non-negative and * no greater than {@link java.lang.Integer#MAX_VALUE}" />
@@ -49,13 +51,11 @@
       <item value="when" />
       <item value="when Use Captor Annotation then The Sam" />
       <item value="Annotation" />
-      <item value="Mockito" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
