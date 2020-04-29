@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="read Retained Slice" />
       <item value="write And Flush" />
       <item value="read Medium" />
       <item value="read Medium LE" />
@@ -50,12 +51,11 @@
       <item value="channel" />
       <item value="mixin Standard Help Options" />
       <item value="then" />
-      <item value="Spy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
