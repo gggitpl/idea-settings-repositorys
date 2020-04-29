@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="read Medium" />
+      <item value="read Medium LE" />
       <item value="// If cumulation is empty and input buffer is contiguous, use it directly" />
       <item value="Tcp Dns Query Encoder" />
       <item value="Unprocessable Entity" />
@@ -49,13 +51,11 @@
       <item value="then" />
       <item value="Spy" />
       <item value="Argument" />
-      <item value="Argument Captor" />
-      <item value="Captor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
