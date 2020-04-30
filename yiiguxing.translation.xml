@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decode" />
+      <item value="encode" />
       <item value="slice" />
       <item value="read Retained Slice" />
       <item value="write And Flush" />
@@ -49,13 +51,11 @@
       <item value="* @param props other properties for the message - routing headers etc" />
       <item value="* @param routingKey the routing key" />
       <item value="* @param exchange the exchange to publish the message to" />
-      <item value="channel" />
-      <item value="mixin Standard Help Options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
