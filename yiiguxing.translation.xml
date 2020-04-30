@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encode" />
       <item value="Epoch Milli" />
       <item value="decode" />
-      <item value="encode" />
       <item value="slice" />
       <item value="read Retained Slice" />
       <item value="write And Flush" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
