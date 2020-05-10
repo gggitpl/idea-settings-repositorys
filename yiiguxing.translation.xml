@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credentials non expired" />
       <item value="STATELESS" />
       <item value="lenient Format" />
       <item value="set Authenticated" />
@@ -50,12 +51,11 @@
       <item value="* @param ifUnused true to indicate that the exchange is only to be deleted if it is unused" />
       <item value="lock Interruptibly" />
       <item value="Basic Properties" />
-      <item value="correlation Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
