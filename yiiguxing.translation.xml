@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JAVA PROPERTY PATTERN" />
       <item value="compute If Present" />
       <item value="put If Absent" />
       <item value="APPLICATION" />
@@ -50,12 +51,11 @@
       <item value="this block hasn't been mined" />
       <item value="difficulty" />
       <item value="/** Maximum number of retries before enqueuing on acquisition */" />
-      <item value="yield" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
