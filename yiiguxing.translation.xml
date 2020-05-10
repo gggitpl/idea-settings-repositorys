@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lenient Format" />
+      <item value="set Authenticated" />
+      <item value="authenticated" />
+      <item value="Granter" />
+      <item value="Token Granter" />
+      <item value="Abstract Token Granter" />
       <item value="comma Separated String To Authority List" />
       <item value="implicit" />
       <item value="/** Hostname to use when accessing server. */" />
@@ -45,17 +51,11 @@
       <item value="Basic Properties" />
       <item value="correlation Id" />
       <item value="exchange NAME" />
-      <item value="exchange" />
-      <item value="/** Content-type &quot;text/plain&quot;, deliveryMode 2 (persistent), priority zero */" />
-      <item value="when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
-      <item value="// Packing and unpacking ctl" />
-      <item value="* @param cancelCallback callback when the consumer is cancelled" />
-      <item value="* @param autoAck true if the server should consider messages" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
