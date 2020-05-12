@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="geo Hash String With Character Precision" />
+      <item value="CHARACTER PRECISION" />
+      <item value="MAX CHARACTER PRECISION" />
+      <item value="number Of Characters" />
+      <item value="longitude" />
+      <item value="get Longitude" />
+      <item value="get Latitude" />
       <item value="get Principal" />
       <item value="get Account By Phone Number If Absent" />
       <item value="handle No Handler Found Exception" />
@@ -44,18 +51,11 @@
       <item value="* @param size * The size of the region to be mapped; must be non-negative and * no greater than {@link java.lang.Integer#MAX_VALUE}" />
       <item value="@param position * The position within the file at which the mapped region * is to start; must be non-negative" />
       <item value="position" />
-      <item value="provided" />
-      <item value="dependencies" />
-      <item value="is Mine" />
-      <item value="Encode" />
-      <item value="Encod" />
-      <item value="Encoded" />
-      <item value="get Encoded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
