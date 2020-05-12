@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Principal" />
+      <item value="get Account By Phone Number If Absent" />
       <item value="handle No Handler Found Exception" />
       <item value="handle Exception Internal" />
       <item value="Millis" />
@@ -49,13 +51,11 @@
       <item value="Encod" />
       <item value="Encoded" />
       <item value="get Encoded" />
-      <item value="value" />
-      <item value="sender" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
