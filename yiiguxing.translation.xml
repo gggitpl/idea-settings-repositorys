@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Counter increments smoke test" />
       <item value="peek" />
       <item value="get Declared Fields" />
       <item value="ignore" />
@@ -50,12 +51,11 @@
       <item value="Unprocessable Entity" />
       <item value="// Set the rows to repeat from row 0 to 2 on the second sheet." />
       <item value="// Set the columns to repeat from column 0 to 2 on the first sheet" />
-      <item value="// write the workbook to the output stream // close our file (don't blow out our file handles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
