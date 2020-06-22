@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
       <item value="Cell" />
       <item value="after Cell Data Converted" />
       <item value="after Cell Dispose" />
@@ -50,12 +51,11 @@
       <item value="read Medium" />
       <item value="read Medium LE" />
       <item value="// If cumulation is empty and input buffer is contiguous, use it directly" />
-      <item value="Tcp Dns Query Encoder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
