@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Reachable" />
       <item value="milliseconds" />
       <item value="Cell" />
       <item value="after Cell Data Converted" />
@@ -50,12 +51,11 @@
       <item value="write And Flush" />
       <item value="read Medium" />
       <item value="read Medium LE" />
-      <item value="// If cumulation is empty and input buffer is contiguous, use it directly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
