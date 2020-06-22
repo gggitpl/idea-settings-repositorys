@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NEVER RETRY" />
+      <item value="Capability" />
       <item value="is Reachable" />
       <item value="milliseconds" />
       <item value="Cell" />
@@ -49,13 +51,11 @@
       <item value="slice" />
       <item value="read Retained Slice" />
       <item value="write And Flush" />
-      <item value="read Medium" />
-      <item value="read Medium LE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
