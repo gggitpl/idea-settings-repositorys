@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Empty Target" />
+      <item value="Hard Coded Target" />
+      <item value="* &lt;li&gt;Read Timeout: 60 seconds&lt;/li&gt;" />
+      <item value="* &lt;li&gt;Connect Timeout: 10 seconds&lt;/li&gt;" />
+      <item value="SECONDS" />
+      <item value="* @param followRedirects if the request should follow 3xx redirections." />
       <item value="Delayed Work Queue" />
       <item value="Delegated Scheduled Executor Service" />
       <item value="daemon" />
@@ -45,17 +51,11 @@
       <item value="Granter" />
       <item value="Token Granter" />
       <item value="Abstract Token Granter" />
-      <item value="comma Separated String To Authority List" />
-      <item value="implicit" />
-      <item value="/** Hostname to use when accessing server. */" />
-      <item value="six" />
-      <item value="decode" />
-      <item value="encode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="DANISH" value="1" />
