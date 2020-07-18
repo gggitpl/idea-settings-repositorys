@@ -1,7 +1,9 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="E:/IdeaProjects/AnchorsUnionAdmin" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/Hibernate-Validator-Dome" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/JLive" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/Lambda-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/Mockito-test" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/Transport(2020-03-02)" firstStartUp="false" />
@@ -10,6 +12,17 @@
     <entry projectName="E:/IdeaProjects/bookstoread" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/business" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/common-model" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/dynamic-ip-binding" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/easyexcel-demo" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/fitness" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/fitness-----" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/fitness-all/account-service" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/fitness-all/dynamic-service" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/fitness-all/gateway-service" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/fitness-all/springboot-rest-template" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/flink-demo/flink-demo" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/flink-demo/hello-world" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/flink-demo/test" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/gateway-server" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/guice-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/hi-dong/account-service" firstStartUp="false" />
@@ -64,15 +77,22 @@
     <entry projectName="E:/IdeaProjects/hidongtop/springboot-redis-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/hidongtop/springboot-rest-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/hidongtop/system-service" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/ip-automatic-update" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/jLive" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/jProxy" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/java-thread-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/java-type-of-data" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/javaio" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/javathreadtests" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/leetcode" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/liveapp" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/message-service" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/myapp" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/netty-proxy-server" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/network-proxy" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/noobchain" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/plan-service" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/poi-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/rabbitmq-test" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/sports/account-services" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/sports/authorization-server" firstStartUp="false" />
@@ -84,10 +104,13 @@
     <entry projectName="E:/IdeaProjects/sports/version-module" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/spring-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/springboot-large-file-multi-threaded-upload-demo" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/springboot-mongo-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/springboot-performance-test-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/springboot-restful-demo" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/springboot-source" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/untitled" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/update-dns-record" firstStartUp="false" />
+    <entry projectName="E:/IdeaProjects/vchatserveradmin" firstStartUp="false" />
     <entry projectName="E:/IdeaProjects/xzctp" firstStartUp="false" />
   </component>
 </application>

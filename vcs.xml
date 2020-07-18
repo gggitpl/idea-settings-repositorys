@@ -10,6 +10,14 @@
           <option name="url" value="http://112.126.60.61:15255" />
           <option name="userName" value="Wangshaojun" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.hidongtop.com" />
+          <option name="userName" value="gggitpl" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.xunyuan8.com" />
+          <option name="userName" value="gggitpl@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

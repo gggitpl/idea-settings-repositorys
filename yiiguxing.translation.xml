@@ -1,66 +1,70 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="* @param ifUnused true to indicate that the exchange is only to be deleted if it is unused" />
-      <item value="lock Interruptibly" />
-      <item value="Basic Properties" />
-      <item value="correlation Id" />
-      <item value="exchange NAME" />
-      <item value="exchange" />
-      <item value="/** Content-type &quot;text/plain&quot;, deliveryMode 2 (persistent), priority zero */" />
-      <item value="when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
-      <item value="// Packing and unpacking ctl" />
-      <item value="* @param cancelCallback callback when the consumer is cancelled" />
-      <item value="* @param autoAck true if the server should consider messages" />
-      <item value="* @throws java.io.IOException if an error is encountered" />
-      <item value="* @param body the message body" />
-      <item value="* @param props other properties for the message - routing headers etc" />
-      <item value="* @param routingKey the routing key" />
-      <item value="* @param exchange the exchange to publish the message to" />
-      <item value="channel" />
-      <item value="mixin Standard Help Options" />
-      <item value="then" />
-      <item value="Spy" />
-      <item value="Argument" />
-      <item value="Argument Captor" />
-      <item value="Captor" />
-      <item value="when" />
-      <item value="when Use Captor Annotation then The Sam" />
-      <item value="Annotation" />
-      <item value="Mockito" />
-      <item value="verify" />
-      <item value="// Maximum array size is Integer.MAX_VALUE" />
-      <item value="// high value may be configured by property" />
-      <item value="radix" />
-      <item value="Concurrent" />
-      <item value="MAXIMUM CAPACITY" />
-      <item value="is Na N" />
-      <item value="DEFAULT LOAD FACTOR" />
-      <item value="TREEIFY THRESHOLD" />
-      <item value="UNTREEIFY THRESHOLD" />
-      <item value="MIN TREEIFY CAPACITY" />
-      <item value="(The javadoc description is true upon serialization. // Additionally, if the table array has not been allocated, this // field holds the initial array capacity, or zero signifying // DEFAULT_INITIAL_CAPACITY.)" />
-      <item value="ensure Capacity" />
-      <item value="original" />
-      <item value="ensure Explicit Capacity" />
-      <item value="ensure Capacity Internal" />
-      <item value="calculate Capacity" />
-      <item value="// any size if not default element table" />
-      <item value="min Expand" />
-      <item value="Expand" />
-      <item value="// c.toArray might (incorrectly) not return Object[] (see 6260652)" />
-      <item value="Collection" />
-      <item value="negative" />
+      <item value="Empty Target" />
+      <item value="Hard Coded Target" />
+      <item value="* &lt;li&gt;Read Timeout: 60 seconds&lt;/li&gt;" />
+      <item value="* &lt;li&gt;Connect Timeout: 10 seconds&lt;/li&gt;" />
+      <item value="SECONDS" />
+      <item value="* @param followRedirects if the request should follow 3xx redirections." />
+      <item value="Delayed Work Queue" />
+      <item value="Delegated Scheduled Executor Service" />
+      <item value="daemon" />
+      <item value="MILLISECONDS" />
+      <item value="NEVER RETRY" />
+      <item value="Capability" />
+      <item value="is Reachable" />
+      <item value="milliseconds" />
+      <item value="Cell" />
+      <item value="after Cell Data Converted" />
+      <item value="after Cell Dispose" />
+      <item value="Counter increments smoke test" />
+      <item value="peek" />
+      <item value="get Declared Fields" />
+      <item value="ignore" />
+      <item value="trim Results" />
+      <item value="geo Hash String With Character Precision" />
+      <item value="CHARACTER PRECISION" />
+      <item value="MAX CHARACTER PRECISION" />
+      <item value="number Of Characters" />
+      <item value="longitude" />
+      <item value="get Longitude" />
+      <item value="get Latitude" />
+      <item value="get Principal" />
+      <item value="get Account By Phone Number If Absent" />
+      <item value="handle No Handler Found Exception" />
+      <item value="handle Exception Internal" />
+      <item value="Millis" />
+      <item value="to Millis" />
+      <item value="MINUTES" />
+      <item value="JAVA PROPERTY PATTERN" />
+      <item value="compute If Present" />
+      <item value="put If Absent" />
+      <item value="APPLICATION" />
+      <item value="CONTAINER" />
+      <item value="since" />
+      <item value="credentials non expired" />
+      <item value="STATELESS" />
+      <item value="lenient Format" />
+      <item value="set Authenticated" />
+      <item value="authenticated" />
+      <item value="Granter" />
+      <item value="Token Granter" />
+      <item value="Abstract Token Granter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="AZERBAIJANI" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="3" />
+        <entry key="GREEK" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
